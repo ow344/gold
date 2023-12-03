@@ -14,3 +14,5 @@ migrate = Migrate(application, db)
 
 from flask import Flask, request, jsonify
 from views import user
+
+# Test 
